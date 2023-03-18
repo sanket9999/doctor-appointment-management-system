@@ -1,4 +1,4 @@
-# Hospital Aggregator System
+# doctor-appointment-management-system
 Doctor Appointment Booking using MySQL, Php and Bootstrap
 
 ## Prerequisites
