@@ -1,1 +1,0 @@
-# doctor-appointment-management-system
